@@ -1,4 +1,4 @@
-name: 'MongoDB in GitHub Actions with custom docker names'
+name: 'MongoDB in GitHub Actions for BiTaksi Applications'
 description: 'Start a MongoDB server (on default port 27017 or a custom port)'
 
 branding:
